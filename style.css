@@ -410,8 +410,14 @@ article .icon {
 
 .project-img {
     border-radius: 2rem;
-    width: 90%;
-    height: 90%;
+    width: 95%;
+    height: 95%;
+
+}
+
+.plant-dex-img {
+    width: 27%;
+    height: 27%;
 }
 
 .project-title{
