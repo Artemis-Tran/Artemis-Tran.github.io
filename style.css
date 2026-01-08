@@ -445,6 +445,11 @@ article .icon {
     transform: translate(-12px,-12px);
 }
 
+.price-track-img {
+    object-fit: contain;
+    background-color: white;
+}
+
 .plant-dex-img {
     width: 27%;
     height: 27%;
