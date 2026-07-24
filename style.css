@@ -450,6 +450,11 @@ article .icon {
     background-color: white;
 }
 
+.threadline-img {
+    object-fit: contain;
+    background-color: white;
+}
+
 .plant-dex-img {
     width: 27%;
     height: 27%;
